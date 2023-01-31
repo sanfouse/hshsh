@@ -1,6 +1,6 @@
 apt install git python3-pip -y
 
-cd /home/ && git clone 
+cd /home/ && git clone https://github.com/sanfouse/hshsh.git
 
 bash /home/wireguard-up/install.sh
 
